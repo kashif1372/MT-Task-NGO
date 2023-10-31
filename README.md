@@ -8,11 +8,11 @@ A step-by-step guide to installing and running the project.
    git clone https://github.com/kashif1372/MT-Task-NGO.git
    
 3. Prepare Application :
-   cd client
-   npm install
-   cd ..
-   cd server
-   npm install
+   cd client || 
+   npm install || 
+   cd .. ||
+   cd server || 
+   npm install ||
    
 4. Start Application
    In different terminals start client and server using npm start and node server.js 
