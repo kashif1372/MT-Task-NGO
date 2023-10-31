@@ -98,7 +98,7 @@ const Contact = () => {
               placeholder="Your Mail..."
               type="email"
             />
-            <input
+            <textarea
               className="input3"
               name="message"
               value={message}

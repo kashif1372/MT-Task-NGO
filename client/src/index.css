@@ -918,6 +918,7 @@ body {
   justify-content: flex-start;
   padding: var(--padding-lg) var(--padding-3xl);
 }
+
 .send {
   position: relative;
   font-size: var(--large-reg-18-size);
